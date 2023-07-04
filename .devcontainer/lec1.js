@@ -14,3 +14,6 @@ console.table([phonenumber,name,phonen2,name2,name3]) // if you have many consta
         2.var is not used generally because of its no scope means var variable may be changed and get reclected back to everywhere 
         
 */
+
+// datatypes 
+// string, boolean , cont, null - object datatype hai and undefined - undefined data type hi hai 
